@@ -1,0 +1,9 @@
+[project]
+name = "genai-observability-slo-lab"
+version = "0.1.0"
+description = "Synthetic GenAI tracing, SLO and error-budget burn analysis"
+requires-python = ">=3.11"
+license = {text = "MIT"}
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
